@@ -1,4 +1,4 @@
-# pyminiproject3
+# Python Mini Project-3
 ## Topic:Password Generator
 
 #### 1>autopass.py
